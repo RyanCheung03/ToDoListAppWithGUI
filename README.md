@@ -40,11 +40,11 @@ A simple Windows Forms application to manage tasks, allowing users to add, edit,
 4. Run the application:
     Press F5 or go to Debug > Start Debugging in Visual Studio.
 
-📝 Prerequisites
+## 📝 Prerequisites
 Visual Studio 2022 (or any recent version).
 .NET Framework installed on your system.
 
-⚙️ How It Works
+## ⚙️ How It Works
 Adding a Task:
 
 Enter a task description and click Add Task.
