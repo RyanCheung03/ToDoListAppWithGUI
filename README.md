@@ -22,14 +22,14 @@ A simple Windows Forms application to manage tasks, allowing users to add, edit,
 
 ## 📸 Screenshots
 ![To-Do List App Screenshot](#)  
-*(Add a screenshot of your application here)*
+![ScreenshotApplication](https://github.com/user-attachments/assets/8ddffea0-2bf3-4ef9-8f65-5b10bd5911ff)
 
 ---
 
 ## 🛠️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RyanCheung03/ToDoListWithGUI.git
+   git clone https://github.com/RyanCheung03/ToDoListAppWithGUI.git
 
 2. Open the project in Visual Studio:
     Open the solution file (ToDoListAppWithGUI.sln) in Visual Studio.
@@ -47,7 +47,7 @@ Visual Studio 2022 (or any recent version).
 ## ⚙️ How It Works
 Adding a Task:
 
-Enter a task description and click Add Task.
+Enter a task description in the text box, and click Add Task.
 Editing a Task:
 
 Select a task from the list, edit the description in the text box, and click Edit Task.
