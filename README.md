@@ -46,22 +46,21 @@ Visual Studio 2022 (or any recent version).
 
 ## ⚙️ How It Works
 Adding a Task:
-
 Enter a task description in the text box, and click Add Task.
+
 Editing a Task:
-
 Select a task from the list, edit the description in the text box, and click Edit Task.
+
 Completing a Task:
-
 Select a task and click Complete Task to mark it as done.
+
 Deleting a Task:
-
 Select a task and click Delete Task to remove it.
+
 Saving Tasks:
-
 Click Save Tasks to save the current task list to tasks.json.
-Exit Confirmation:
 
+Exit Confirmation:
 On exit, the app prompts to save tasks before closing.
 
 ## 🚧 Future Improvements
