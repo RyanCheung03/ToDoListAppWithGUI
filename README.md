@@ -29,7 +29,7 @@ A simple Windows Forms application to manage tasks, allowing users to add, edit,
 ## 🛠️ How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-app-with-gui.git
+   git clone https://github.com/RyanCheung03/ToDoListWithGUI.git
 
 2. Open the project in Visual Studio:
     Open the solution file (ToDoListAppWithGUI.sln) in Visual Studio.
