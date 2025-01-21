@@ -15,6 +15,7 @@ A simple Windows Forms application to manage tasks, allowing users to add, edit,
 
 ## 🖥️ Technologies Used
 - **C#**
+- **NET 8** (Windows-specific)
 - **Windows Forms** for the graphical user interface (GUI).
 - **JSON** for data persistence.
 
@@ -45,25 +46,26 @@ Visual Studio 2022 (or any recent version).
 .NET Framework installed on your system.
 
 ## ⚙️ How It Works
-Adding a Task:
+- **Adding a Task**:
 Enter a task description in the text box, and click Add Task.
 
-Editing a Task:
+- **Editing a Task**:
 Select a task from the list, edit the description in the text box, and click Edit Task.
 
-Completing a Task:
+- **Completing a Task**:
 Select a task and click Complete Task to mark it as done.
 
-Deleting a Task:
+- **Deleting a Task**:
 Select a task and click Delete Task to remove it.
 
-Saving Tasks:
+- **Saving Tasks**:
 Click Save Tasks to save the current task list to tasks.json.
 
-Exit Confirmation:
+- **Exit Confirmation**:
 On exit, the app prompts to save tasks before closing.
 
 ## 🚧 Future Improvements
-Add the ability to categorize tasks.
-Add a search bar to filter tasks.
+- Add the ability to categorize tasks.
+- Add a search bar to filter tasks.
+- Make the content scale dynamically with the window size.
 
