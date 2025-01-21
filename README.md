@@ -64,7 +64,7 @@ Exit Confirmation:
 
 On exit, the app prompts to save tasks before closing.
 
-🚧 Future Improvements
+## 🚧 Future Improvements
 Add the ability to categorize tasks.
 Add a search bar to filter tasks.
 
